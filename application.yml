@@ -13,6 +13,7 @@ microservice:
     endpoints:
       endpoint:
         uri: http://PAYMENT-SERVICE/payments/make
+microservice:
   order-service:
     endpoints:
       endpoint:
